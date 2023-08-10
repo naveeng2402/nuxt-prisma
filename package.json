@@ -5,6 +5,9 @@
   "repository": "naveeng2402/nuxt-prisma",
   "license": "MIT",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "types": "./dist/types.d.ts",
