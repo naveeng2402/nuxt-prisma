@@ -22,10 +22,9 @@ The only nuxt module that makes nuxt devs life simpler for doing amazing things.
 
 ## Features
 
-<!-- Highlight some of the features your module provide here -->
-- ⛰ &nbsp;Foo
-- 🚠 &nbsp;Bar
-- 🌲 &nbsp;Baz
+Highlight some of the features your module provide here
+- Connect to Prisma with ease
+- view prisma studio in nuxt devtools
 
 ## Quick Setup
 
