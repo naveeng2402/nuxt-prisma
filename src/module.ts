@@ -6,8 +6,8 @@ export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: "my-module",
-    configKey: "myModule",
+    name: "nuxt-prisma",
+    configKey: "prisma",
   },
   // Default configuration options of the Nuxt module
   defaults: {},
