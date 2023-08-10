@@ -10,7 +10,7 @@ const { pending, data: posts } = await useFetch("/api/posts", {
   <div>Nuxt module playground!</div>
   <div v-if="pending">Loading ...</div>
   <div v-else>
-    <div v-for="post in posts">
+    <div v-for="post in posts" :key="post.title">
       <p>{{ post.title }}</p>
     </div>
   </div>
