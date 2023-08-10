@@ -51,6 +51,11 @@ export default defineNuxtConfig({
 })
 ```
 
+3. Initialize `prisma` as you would
+```bash
+npx prisma init
+```
+
 That's it! You can now use Nuxt Prisma in your Nuxt app ✨
 
 ## Development
