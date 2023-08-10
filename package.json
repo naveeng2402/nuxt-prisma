@@ -1,6 +1,6 @@
 {
   "name": "@naveeng2402/nuxt-prisma",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The only nuxt module that makes nuxt devs life simpler.",
   "repository": "naveeng2402/nuxt-prisma",
   "license": "MIT",
