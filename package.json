@@ -8,6 +8,15 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": [
+    "nuxt3",
+    "prisma",
+    "orm",
+    "ts",
+    "prisma-studio",
+    "vue",
+    "vuejs"
+  ],
   "exports": {
     ".": {
       "types": "./dist/types.d.ts",
